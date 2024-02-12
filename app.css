@@ -82,7 +82,14 @@ h5,
 h6 {
   --pico-font-weight: 700;
 }
-
+img {
+ 
+  width: 200px;
+   
+  height: 100px;
+   
+  }
+  
 h1 {
   --pico-font-size: 2rem;
   --pico-line-height: 1.125;
