@@ -74,6 +74,7 @@ small {
   --pico-font-size: 0.875em;
 }
 
+t1,
 h1,
 h2,
 h3,
@@ -92,7 +93,7 @@ h1 {
 t1 {
   --pico-font-size: 4rem;
   --pico-line-height: 1.125;
-  --pico-typography-spacing-top: 9rem;
+  --pico-typography-spacing-top: 6rem;
 }
 
 h2 {
