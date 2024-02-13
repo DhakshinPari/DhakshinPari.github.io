@@ -85,9 +85,9 @@ h6 {
 }
 
 h1 {
-  --pico-font-size: 3rem;
+  --pico-font-size: 2.5rem;
   --pico-line-height: 1.125;
-  --pico-typography-spacing-top: 4.5rem;
+  --pico-typography-spacing-top: 3rem;
 }
 
 h10 {
